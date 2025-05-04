@@ -28,7 +28,7 @@ while tentativas > 0:
     print("palavra:", exibir, end="")
 
     if "_" not in exibir:
-        print(f"parabens! você ganhou! a palavra era {palavra}")
+        print(f"\nparabens! você ganhou! a palavra era {palavra}")
         break
 
     chute = input("digite uma letra para advinhar: ").lower()
