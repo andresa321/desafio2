@@ -1,4 +1,4 @@
-from palavraforca import palavra
+palavra = "morango"
 letras_usuario = []
 tentativas = 6
 
